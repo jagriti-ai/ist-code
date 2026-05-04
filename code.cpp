@@ -7,7 +7,7 @@ int main(){
     cout<<"enter character"<<endl;  //enter the character you want to check 
     cin>>ch;
 
-    if(ch>='65' && ch<='90'){
+    if(ch>=65 && ch<=90){
         cout<<"upper case\n";
     }else{ 
         cout<<"lower case\n";
