@@ -1,0 +1,69 @@
+# 🧮 Simple C++ Calculator
+
+A beginner-friendly calculator program written in **C++** that performs basic arithmetic operations.
+
+---
+
+## 🚀 Features
+
+* Addition ➕
+* Subtraction ➖
+* Multiplication ✖️
+* Division ➗
+* Handles division by zero ⚠️
+* Clean and commented code for easy understanding
+
+---
+
+## 💻 Technologies Used
+
+* C++
+* Standard Library (`iostream`)
+
+---
+
+## 📂 How to Run
+
+1. Copy the code into a file named:
+
+   ```
+   calculator.cpp
+   ```
+2. Compile the program:
+
+   ```
+   g++ calculator.cpp -o calculator
+   ```
+3. Run the program:
+
+   ```
+   ./calculator
+   ```
+
+---
+
+## 🧠 What I Learned
+
+* Taking user input in C++
+* Using conditional statements (`if-else`)
+* Performing arithmetic operations
+* Handling errors (like division by zero)
+
+---
+
+## 📌 Future Improvements
+
+* Add more operations (power, modulus)
+* Convert to menu-driven program
+* Build GUI version
+
+---
+
+## 👩‍💻 Author
+
+**Jagriti**
+📚 Student
+
+---
+
+⭐ If you like this project, consider giving it a star!
