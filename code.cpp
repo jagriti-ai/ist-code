@@ -1,4 +1,4 @@
- //find if the character is lower case or upper case
+ //find if the character is lower case or upper case through ASCII value
  #include<iostream>
 using namespace std;
 
@@ -7,10 +7,10 @@ int main(){
     cout<<"enter character"<<endl;  //enter the character you want to check 
     cin>>ch;
 
-    if(ch>='a' && ch<='z'){
-        cout<<"character is lower case\n";
+    if(ch>='65' && ch<='90'){
+        cout<<"upper case\n";
     }else{ 
-        cout<<"character is upper case\n";
+        cout<<"lower case\n";
     }
     
 return 0;
